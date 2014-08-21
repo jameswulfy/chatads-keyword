@@ -1,0 +1,39 @@
+#tweet-box {
+	height: 150px;
+	width: 250px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 0 auto;
+	float: none;
+	border-radius: 3px;
+}
+
+#keyword-box {
+	height: 150px;
+	width: 250px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 0 auto;
+	float: none;
+	border-radius: 3px;
+}
+
+.box {
+	text-align: center;
+	margin-top: 200px;
+}
+
+.buttons {
+	text-align: center;
+	margin-top: 150px;
+}
+
+.x-button {
+	padding: 10px;
+	border: none;
+}
+
+.check-button {
+	padding: 10px;
+	border: none;
+}
