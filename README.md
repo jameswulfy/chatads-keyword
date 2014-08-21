@@ -5,17 +5,7 @@ Summary: An app that connects to Twitter's API and ChatAds KeyWord API. Twitter'
 3. Connect the left box to twitter's API
 4. Right box to ChatAd's Keyword API
 
-5. 
+5. if the keyword matches then press the check (if the check is pressed then the keyword goes back to a good pile where it is stored and shows that it a good keyword.)
+6. if the keyword is not relevant to the context then press the x (if the x is pressed the keyword is stored in a rejected pile)
 
-
-
-
-'m thinking that you create a website that ties into the Twitter API and ChatAds API.  The Twitter API pulls in 100% random tweets and runs them against the ChatAds API to try and find a match.  (The Tweets act as if they were Text Messages).
-
-Once there's a match, the Website displays the original tweet and the Matched/returned ChatAds "Category" with Keyword below.
-
-There's also a <<Check Mark>> and <<X>> buttons displayed.  (Bonus: Tie the left and right keyboard arrows into the equation as well).
-
-The User sees both the original tweet and the ChatAds "Category" and Keyword.  If the match is a Good Match, the user clicks on the <<Check Mark>> button (or presses the Left Arrow); if the match is incorrect, the user clicks on the <<X>> button (or presses the right arrow button).
-
-Incorrect matches are sent to Buster via a spreadsheet of some sort.  
+7. sync the two button to the right and left arrow keys on the keyboard
