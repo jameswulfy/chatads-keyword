@@ -14,25 +14,24 @@
 
 .keyword-box {
 	display: inline-block;
-	margin-left: 365px;
+	margin-left: 340px;
 	margin-top: 200px;
 	font-size: 60px;
 	border-bottom: 2px solid black;
-}
-
-.button-box {
-	max-width: 50%;
-	max-height: 50%;
 }
 
 #x-button {
 	margin-top: 50px;
 	margin-left: 375px;
 	padding: 10px;
+	max-width: 7%;
+	max-height: 7%;
 }
 
 #check-button {
 	padding: 10px;
+	max-width: 7%;
+	max-height: 7%;
 }
 
 /*.chatads-logo {
