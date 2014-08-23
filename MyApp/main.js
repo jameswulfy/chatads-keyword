@@ -1,0 +1,3 @@
+var keyWord = function(word) {
+	
+}
