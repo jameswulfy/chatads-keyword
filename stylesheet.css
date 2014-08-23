@@ -7,22 +7,24 @@
 
 #iphone {
 	display: inline-block;
-	float:right;
-	margin-right: 300px;
+	float:left;
+	margin-left: 300px;
 	margin-top: 15px;
 }
 
 .keyword-box {
 	display: inline-block;
-	margin-left: 340px;
-	margin-top: 200px;
-	font-size: 60px;
+	font-size: 100px;
 	border-bottom: 2px solid black;
+	float: right;
+	margin-right: 200px;
+	margin-top: 200px;
+	font-family: 'Raleway', sans-serif;
 }
 
 #x-button {
 	margin-top: 50px;
-	margin-left: 375px;
+	margin-left: 300px;
 	padding: 10px;
 	max-width: 7%;
 	max-height: 7%;
